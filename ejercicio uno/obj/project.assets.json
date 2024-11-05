@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\prueba1\\prueba1.csproj",
+      "projectUniqueName": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\ejercicio uno\\prueba1.csproj",
       "projectName": "prueba1",
-      "projectPath": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\prueba1\\prueba1.csproj",
+      "projectPath": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\ejercicio uno\\prueba1.csproj",
       "packagesPath": "C:\\Users\\jmerc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\prueba1\\obj\\",
+      "outputPath": "C:\\Users\\jmerc\\source\\repos\\cien-ejercicios\\ejercicio uno\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
